@@ -6,7 +6,6 @@
 
 [[redirects]]
 from = "/* "
-to = “https://cdn.cboe.com 9”
 status = 200
 force = true
 headers = {Access-Control-Allow-Origin: “*”}
