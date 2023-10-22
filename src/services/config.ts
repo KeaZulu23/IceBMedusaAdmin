@@ -1,3 +1,3 @@
-const medusaUrl = "https://icebmedusabackend-production.up.railway.app/store/products"
+const medusaUrl = "https://icebmedusabackend-production.up.railway.app"
 
 export { medusaUrl }
